@@ -80,7 +80,7 @@ streamlit
 Indian Penal Code (IPC)
 Criminal Procedure Code (CrPC)
 Constitution of India
-Nyaaya FAQs (https://nyaaya.org/question-bank/)
+Nyaaya FAQs (https://nyaaya.org/question-bank/) 
 
 ⚠️ Disclaimer
 This project is for informational purposes only and does not constitute legal advice. Please consult a qualified lawyer for actual legal matters.
