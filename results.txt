@@ -1,0 +1,61 @@
+✅ What does Section 420 of the IPC say?... | Len: 7 | CosSim: 0.66 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What are the grounds for divorce under H... | Len: 320 | CosSim: 0.85 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Can a woman claim alimony after divorce ... | Len: 363 | CosSim: 0.68 | Terms: 0
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the punishment for defamation in... | Len: 324 | CosSim: 0.80 | Terms: 3
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is anticipatory bail and when can i... | Len: 429 | CosSim: 0.74 | Terms: 3
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Is attempt to suicide a criminal offence... | Len: 365 | CosSim: 0.85 | Terms: 3
+Token indices sequence length is longer than the specified maximum sequence length for this model (10732 > 2048). Running this sequence through the model will result in indexing errors
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+This is a friendly reminder - the current text generation call will exceed the model's predefined maximum length (2048). Depending on the model, you may observe exceptions, performance degradation, or nothing at all.
+✅ What is Article 21 of the Constitution o... | Len: 255 | CosSim: 0.02 | Terms: 0
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Can a minor be tried for murder in India... | Len: 430 | CosSim: 0.80 | Terms: 0
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the difference between bailable ... | Len: 414 | CosSim: 0.78 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What are the rights of a daughter in anc... | Len: 411 | CosSim: 0.63 | Terms: 0
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the procedure to file an FIR?... | Len: 417 | CosSim: 0.55 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Is live-in relationship legally recogniz... | Len: 192 | CosSim: 0.79 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the maternity leave entitlement ... | Len: 297 | CosSim: 0.64 | Terms: 3
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Can an OCI cardholder buy property in In... | Len: 389 | CosSim: 0.80 | Terms: 0
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the POCSO Act and whom does it p... | Len: 409 | CosSim: 0.66 | Terms: 2
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Can WhatsApp chats be used as evidence i... | Len: 430 | CosSim: 0.83 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the maximum time police can deta... | Len: 427 | CosSim: 0.79 | Terms: 1
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is Section 498A of IPC about?... | Len: 229 | CosSim: 0.63 | Terms: 2
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ Can a Hindu man marry a Christian woman ... | Len: 392 | CosSim: 0.73 | Terms: 0
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+✅ What is the difference between Article 1... | Len: 402 | CosSim: 0.56 | Terms: 5
